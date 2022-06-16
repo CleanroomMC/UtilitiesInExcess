@@ -1,0 +1,16 @@
+[
+{
+  "modid": "utilitiesinexcess",
+  "name": "Utilities In Excess",
+  "description": "A spiritual successor and rewrite of Extra Utilities 1 from 1.7.10, now in Minecraft 1.12.2!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CleanroomMC", "dan"],
+  "credits": "RWTema for creating the original mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
